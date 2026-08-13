@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-19T18:48:43Z",
+            "last_commit": "2026-08-13T09:12:12Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
             "stars": 7028
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-02T01:33:29Z",
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T09:15:30Z",
+            "last_commit": "2026-08-13T09:11:59Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5428
+            "stars": 5429
           }
         },
         {
@@ -231,10 +231,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:54:09Z",
+            "last_commit": "2026-08-13T19:01:15Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5648
+            "stars": 5649
           }
         },
         {
@@ -245,10 +245,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T09:15:30Z",
+            "last_commit": "2026-08-13T09:11:59Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5428
+            "stars": 5429
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-07-18T23:15:43Z",
             "owner": "4ier",
             "repo": "notion-cli",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:00.483Z",
+    "last_updated": "2026-08-13T22:07:51.230Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
     "enhanced_repository": "enhansome/enhansome-notion",
