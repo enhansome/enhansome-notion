@@ -1,0 +1,509 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Next.js Notion Starter Kit",
+          "description": "A starter kit using React Notion X to build into SSG with Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-19T18:48:43Z",
+            "owner": "transitive-bullshit",
+            "repo": "nextjs-notion-starter-kit",
+            "stars": 7028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion Blog",
+          "description": "It is a tool that uses Next.js to generate Notion as static blog web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-08T13:51:04Z",
+            "owner": "ijjk",
+            "repo": "notion-blog",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notablog",
+          "description": "Generate a minimalistic blog from Notion table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-20T20:11:12Z",
+            "owner": "dragonman225",
+            "repo": "notablog",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Notion Blog",
+          "description": "Notion blog boilerplate using React Notion to build into SSG with Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T08:51:10Z",
+            "owner": "splitbee",
+            "repo": "react-notion-blog",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "Notion as Blog CMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Notion Dog",
+          "description": "The easiest way to build simple, powerful websites with nothing but Notion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-13T02:49:34Z",
+            "owner": "notiondog",
+            "repo": "notion.dog",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoteHost",
+          "description": "Free Hosting for your Notion Pages on your custom domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-30T14:59:59Z",
+            "owner": "velsa",
+            "repo": "notehost",
+            "stars": 166
+          }
+        }
+      ],
+      "title": "Notion as Website"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Notion Enhancer",
+          "description": "Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-28T06:13:09Z",
+            "owner": "notion-enhancer",
+            "repo": "notion-enhancer",
+            "stars": 5023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Icons CDN",
+          "description": "The CDN service of the free brand icons set for your Notion pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T01:33:29Z",
+            "owner": "LitoMore",
+            "repo": "simple-icons-cdn",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotionAI-MyMind",
+          "description": "This repo uses AI and the wonderful Notion to enable you to add anything on the web to your \"Mind\" and forget about everything else.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-23T08:57:25Z",
+            "owner": "elblogbruno",
+            "repo": "NotionAI-MyMind",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notionterm",
+          "description": "Embed a shell in Notion pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-07T15:39:03Z",
+            "owner": "ariary",
+            "repo": "notionterm",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mk Notes",
+          "description": "Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-23T17:06:28Z",
+            "owner": "Myastr0",
+            "repo": "mk-notes",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Notion X",
+          "description": "Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T09:15:30Z",
+            "owner": "NotionX",
+            "repo": "react-notion-x",
+            "stars": 5428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Notion",
+          "description": "A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-28T07:44:29Z",
+            "owner": "splitbee",
+            "repo": "react-notion",
+            "stars": 3001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Notion",
+          "description": "A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-09-05T13:17:53Z",
+            "owner": "janniks",
+            "repo": "vue-notion",
+            "stars": 919
+          }
+        }
+      ],
+      "title": "Renderers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "notion-sdk-js",
+          "description": "Reference implementation of the Notion API in Javascript by the Notion Team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:54:09Z",
+            "owner": "makenotion",
+            "repo": "notion-sdk-js",
+            "stars": 5648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion Client",
+          "description": "Robust TypeScript client for the unofficial Notion API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T09:15:30Z",
+            "owner": "NotionX",
+            "repo": "react-notion-x",
+            "stars": 5428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-py",
+          "description": "Unofficial Python API client for Notion.so.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-16T23:25:50Z",
+            "owner": "jamalex",
+            "repo": "notion-py",
+            "stars": 4374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-sdk-py",
+          "description": "Python version of the reference notion-sdk-js Javascript client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:22:45Z",
+            "owner": "ramnes",
+            "repo": "notion-sdk-py",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notionapi",
+          "description": "Unofficial Go API for Notion.so.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-02T10:38:41Z",
+            "owner": "kjk",
+            "repo": "notionapi",
+            "stars": 1840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion API Worker",
+          "description": "A serverless wrapper for the private Notion API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-17T18:14:25Z",
+            "owner": "splitbee",
+            "repo": "notion-api-worker",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion2md",
+          "description": "Convert your Notion file to markdown - built on-top of notion-py.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-10T11:15:45Z",
+            "owner": "echo724",
+            "repo": "notion2md",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laravel-notion-api",
+          "description": "Effortless Notion integrations with Laravel. Simple access to the Notion API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-04T12:47:23Z",
+            "owner": "5am-code",
+            "repo": "laravel-notion-api",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion-Api (Node.js)",
+          "description": "Unofficial Node.js API wrapper for Notion.so. Work in progress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-24T22:23:21Z",
+            "owner": "cstrnt",
+            "repo": "notion-api",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion CLI",
+          "description": "A fast, full-featured command-line interface for Notion with support for pages, databases, blocks, comments, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-18T23:15:43Z",
+            "owner": "4ier",
+            "repo": "notion-cli",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-exporter",
+          "description": "CLI and library for exporting .md and .csv files from any Notion.so page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-12T12:52:40Z",
+            "owner": "yannbolliger",
+            "repo": "notion-exporter",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion4ever",
+          "description": "Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T07:20:59Z",
+            "owner": "MerkulovDaniil",
+            "repo": "notion4ever",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion Page to HTML",
+          "description": "NodeJS tool to convert public notion pages to HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T12:35:18Z",
+            "owner": "asnunes",
+            "repo": "notion-page-to-html",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-helper",
+          "description": "Library for writing Notion API requests with a lot less code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-15T19:23:24Z",
+            "owner": "TomFrankly",
+            "repo": "notion-helper",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-ruby",
+          "description": "Unofficial Notion Client for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-09-06T20:41:29Z",
+            "owner": "danmurphy1217",
+            "repo": "notion-ruby",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-sdk-php",
+          "description": "PHP library for the official Notion API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-23T12:53:22Z",
+            "owner": "brd6",
+            "repo": "notion-sdk-php",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-ts-client",
+          "description": "Generate an easy to use custom Typescript SDK to access and modify the data in your Notion Databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-17T17:56:49Z",
+            "owner": "velsa",
+            "repo": "notion-ts-client",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KNotion API",
+          "description": "Unofficial Notion.so API wrapper, written in Kotlin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-11-18T01:59:57Z",
+            "owner": "notionsdk",
+            "repo": "notion-sdk-kotlin",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-sdk-deno",
+          "description": "Unofficial Notion Client for Deno.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-02T14:18:52Z",
+            "owner": "yeukfei02",
+            "repo": "notion-sdk-deno",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "APIs"
+    },
+    {
+      "description": "Contributions are always welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:00.483Z",
+    "original_repository": "spencerpauly/awesome-notion",
+    "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
+    "enhanced_repository": "enhansome/enhansome-notion",
+    "enhanced_repository_description": null,
+    "title": "awesome-notion with stars"
+  }
+}
