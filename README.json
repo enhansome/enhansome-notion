@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T09:12:12Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7028
+            "stars": 7026
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-02-28T06:13:09Z",
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5022
+            "stars": 5021
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-15T17:38:58Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431
+            "stars": 5427
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2024-10-28T07:44:29Z",
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 3001
+            "stars": 3000
           }
         },
         {
@@ -231,10 +231,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:34:15Z",
+            "last_commit": "2026-08-15T23:45:36Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5651
+            "stars": 5650
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-08-15T17:38:58Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431
+            "stars": 5427
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-02-16T23:25:50Z",
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4375
+            "stars": 4374
           }
         },
         {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:41:34.981Z",
+    "last_updated": "2026-08-16T21:40:08.349Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
     "enhanced_repository": "enhansome/enhansome-notion",
