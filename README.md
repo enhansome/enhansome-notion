@@ -20,7 +20,7 @@
 
 ## Notion as Blog CMS
 
-* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,026 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-13 - A starter kit using React Notion X to build into SSG with Next.js.
+* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,025 | 🐛 151 | 🌐 TypeScript | 📅 2026-08-18 - A starter kit using React Notion X to build into SSG with Next.js.
 * [Notion Blog](https://github.com/ijjk/notion-blog) ⭐ 3,858 | 🐛 29 | 🌐 TypeScript | 📅 2024-04-08 - It is a tool that uses Next.js to generate Notion as static blog web pages.
 * [Notablog](https://github.com/dragonman225/notablog) ⭐ 682 | 🐛 23 | 🌐 TypeScript | 📅 2023-09-20 - Generate a minimalistic blog from Notion table.
 * [React Notion Blog](https://github.com/splitbee/react-notion-blog) ⭐ 189 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-06 - Notion blog boilerplate using React Notion to build into SSG with Next.js.
@@ -39,11 +39,11 @@
 
 ## Tools
 
-* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,021 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
-* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 386 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-02 -  The CDN service of the free brand icons set for your Notion pages.
+* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,020 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
+* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 387 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-02 -  The CDN service of the free brand icons set for your Notion pages.
 * [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) ⭐ 284 | 🐛 5 | 🌐 Python | 📅 2021-11-23 - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
-* [notionterm](https://github.com/ariary/notionterm) ⭐ 137 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
-* [Mk Notes](https://github.com/Myastr0/mk-notes) ⭐ 124 | 🐛 9 | 🌐 TypeScript | 📅 2025-12-23 - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
+* [notionterm](https://github.com/ariary/notionterm) ⭐ 138 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
+* [Mk Notes](https://github.com/Myastr0/mk-notes) ⭐ 125 | 🐛 9 | 🌐 TypeScript | 📅 2025-12-23 - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
 * [Notis.ai](https://notis.ai) - Voice-powered copilot for Notion that captures, organizes, and finds anything in your Notion workspace - right from your favorite messaging app (WhatsApp, Telegram).
 * [Latwy](https://latwy.co) - Automatically sync your financial transactions and balances in Notion.
 * [Heading Image Generator](https://engine.so/heading-image-generator-for-notion/) - Instantly create header graphics that you can easily copy/paste into Notion
@@ -126,16 +126,16 @@
 
 ## Renderers
 
-* [React Notion X](https://github.com/NotionX/react-notion-x) ⭐ 5,427 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-15 - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
+* [React Notion X](https://github.com/NotionX/react-notion-x) ⭐ 5,424 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-18 - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
 * [React Notion](https://github.com/splitbee/react-notion) ⭐ 3,000 | 🐛 42 | 🌐 TypeScript | 📅 2024-10-28 - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
 * [Vue Notion](https://github.com/janniks/vue-notion) ⭐ 920 | 🐛 24 | 🌐 Vue | 📅 2024-09-05 - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,649 | 🐛 63 | 🌐 TypeScript | 📅 2026-08-17 - Reference implementation of the Notion API in Javascript by the Notion Team.
-* [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,427 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-15 - Robust TypeScript client for the unofficial Notion API.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,650 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-18 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,424 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-18 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,373 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
-* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,176 | 🐛 23 | 🌐 Python | 📅 2026-08-14 - Python version of the reference notion-sdk-js Javascript client.
+* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,177 | 🐛 18 | 🌐 Python | 📅 2026-08-18 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,840 | 🐛 3 | 🌐 Go | 📅 2026-07-02 - Unofficial Go API for Notion.so.
 * [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,662 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
 * [notion2md](https://github.com/echo724/notion2md) ⭐ 757 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
@@ -143,7 +143,7 @@
 * [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) ⭐ 279 | 🐛 8 | 🌐 TypeScript | 📅 2022-06-24 - Unofficial Node.js API wrapper for Notion.so. Work in progress.
 * [Notion CLI](https://github.com/4ier/notion-cli) ⭐ 241 | 🐛 12 | 🌐 Go | 📅 2026-07-18 - A fast, full-featured command-line interface for Notion with support for pages, databases, blocks, comments, and more.
 * [notion-exporter](https://github.com/yannbolliger/notion-exporter) ⭐ 188 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-12 - CLI and library for exporting .md and .csv files from any Notion.so page.
-* [notion4ever](https://github.com/MerkulovDaniil/notion4ever) ⭐ 176 | 🐛 5 | 🌐 Python | 📅 2026-04-14 - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
+* [notion4ever](https://github.com/MerkulovDaniil/notion4ever) ⭐ 177 | 🐛 5 | 🌐 Python | 📅 2026-04-14 - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
 * [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) ⭐ 172 | 🐛 12 | 🌐 TypeScript | 📅 2023-01-06 - NodeJS tool to convert public notion pages to HTML.
 * [notion-helper](https://github.com/TomFrankly/notion-helper) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-15 - Library for writing Notion API requests with a lot less code
 * [notion-ruby](https://github.com/danmurphy1217/notion-ruby) ⭐ 70 | 🐛 5 | 🌐 Ruby | 📅 2021-09-06 - Unofficial Notion Client for Ruby.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

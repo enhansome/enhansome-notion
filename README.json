@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T09:12:12Z",
+            "last_commit": "2026-08-18T10:33:18Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7026
+            "stars": 7025
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-02-28T06:13:09Z",
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5021
+            "stars": 5020
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-02T01:33:29Z",
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 386
+            "stars": 387
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2023-03-07T15:39:03Z",
             "owner": "ariary",
             "repo": "notionterm",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2025-12-23T17:06:28Z",
             "owner": "Myastr0",
             "repo": "mk-notes",
-            "stars": 124
+            "stars": 125
           }
         }
       ],
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T17:38:58Z",
+            "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5427
+            "stars": 5424
           }
         },
         {
@@ -231,10 +231,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:12:03Z",
+            "last_commit": "2026-08-18T18:13:13Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5649
+            "stars": 5650
           }
         },
         {
@@ -245,10 +245,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T17:38:58Z",
+            "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5427
+            "stars": 5424
           }
         },
         {
@@ -273,10 +273,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T00:23:31Z",
+            "last_commit": "2026-08-18T13:31:33Z",
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2176
+            "stars": 2177
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-04-14T07:20:59Z",
             "owner": "MerkulovDaniil",
             "repo": "notion4ever",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:45:54.098Z",
+    "last_updated": "2026-08-18T21:43:23.162Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
     "enhanced_repository": "enhansome/enhansome-notion",
