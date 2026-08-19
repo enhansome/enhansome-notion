@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329971644,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T10:33:18Z",
+            "last_commit": "2026-08-19T05:27:45Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
             "stars": 7025
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231842017,
             "language": "TypeScript",
             "last_commit": "2024-04-08T13:51:04Z",
             "owner": "ijjk",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198864465,
             "language": "TypeScript",
             "last_commit": "2023-09-20T20:11:12Z",
             "owner": "dragonman225",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272178532,
             "language": "TypeScript",
             "last_commit": "2023-01-06T08:51:10Z",
             "owner": "splitbee",
@@ -63,7 +67,7 @@
       "title": "Notion as Blog CMS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341404924,
             "language": null,
             "last_commit": "2022-12-13T02:49:34Z",
             "owner": "notiondog",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748467275,
             "language": "TypeScript",
             "last_commit": "2024-07-30T14:59:59Z",
             "owner": "velsa",
@@ -97,7 +103,7 @@
       "title": "Notion as Website"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242956320,
             "language": "JavaScript",
             "last_commit": "2026-02-28T06:13:09Z",
             "owner": "notion-enhancer",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 542566956,
             "language": "TypeScript",
             "last_commit": "2026-08-02T01:33:29Z",
             "owner": "LitoMore",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286764653,
             "language": "Python",
             "last_commit": "2021-11-23T08:57:25Z",
             "owner": "elblogbruno",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491132674,
             "language": "Go",
             "last_commit": "2023-03-07T15:39:03Z",
             "owner": "ariary",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 924239110,
             "language": "TypeScript",
             "last_commit": "2025-12-23T17:06:28Z",
             "owner": "Myastr0",
@@ -173,7 +184,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -182,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287649568,
             "language": "TypeScript",
             "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5424
+            "stars": 5426
           }
         },
         {
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255569926,
             "language": "TypeScript",
             "last_commit": "2024-10-28T07:44:29Z",
             "owner": "splitbee",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321740547,
             "language": "Vue",
             "last_commit": "2024-09-05T13:17:53Z",
             "owner": "janniks",
@@ -221,7 +235,7 @@
       "title": "Renderers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -230,8 +244,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359022072,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:13:13Z",
+            "last_commit": "2026-08-18T23:20:12Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5650
@@ -244,11 +259,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287649568,
             "language": "TypeScript",
             "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5424
+            "stars": 5426
           }
         },
         {
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159102574,
             "language": "Python",
             "last_commit": "2026-02-16T23:25:50Z",
             "owner": "jamalex",
@@ -272,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367164562,
             "language": "Python",
             "last_commit": "2026-08-18T13:31:33Z",
             "owner": "ramnes",
@@ -286,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140402533,
             "language": "Go",
             "last_commit": "2026-07-02T10:38:41Z",
             "owner": "kjk",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257580293,
             "language": "TypeScript",
             "last_commit": "2025-10-17T18:14:25Z",
             "owner": "splitbee",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275703871,
             "language": "Python",
             "last_commit": "2024-01-10T11:15:45Z",
             "owner": "echo724",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367348616,
             "language": "PHP",
             "last_commit": "2026-06-04T12:47:23Z",
             "owner": "5am-code",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174422149,
             "language": "TypeScript",
             "last_commit": "2022-06-24T22:23:21Z",
             "owner": "cstrnt",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160977040,
             "language": "Go",
             "last_commit": "2026-07-18T23:15:43Z",
             "owner": "4ier",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354516768,
             "language": "TypeScript",
             "last_commit": "2026-01-12T12:52:40Z",
             "owner": "yannbolliger",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452619821,
             "language": "Python",
             "last_commit": "2026-04-14T07:20:59Z",
             "owner": "MerkulovDaniil",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281968406,
             "language": "TypeScript",
             "last_commit": "2023-01-06T12:35:18Z",
             "owner": "asnunes",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 854755671,
             "language": "JavaScript",
             "last_commit": "2026-01-15T19:23:24Z",
             "owner": "TomFrankly",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307820004,
             "language": "Ruby",
             "last_commit": "2021-09-06T20:41:29Z",
             "owner": "danmurphy1217",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468870898,
             "language": "PHP",
             "last_commit": "2026-07-23T12:53:22Z",
             "owner": "brd6",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 759215847,
             "language": "TypeScript",
             "last_commit": "2025-06-17T17:56:49Z",
             "owner": "velsa",
@@ -468,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404095222,
             "language": "Kotlin",
             "last_commit": "2021-11-18T01:59:57Z",
             "owner": "notionsdk",
@@ -482,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369545132,
             "language": "TypeScript",
             "last_commit": "2024-03-02T14:18:52Z",
             "owner": "yeukfei02",
@@ -491,16 +524,12 @@
         }
       ],
       "title": "APIs"
-    },
-    {
-      "description": "Contributions are always welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:43:23.162Z",
+    "last_updated": "2026-08-19T12:41:24.274Z",
     "original_repository": "spencerpauly/awesome-notion",
+    "original_repository_id": 324687379,
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
     "enhanced_repository": "enhansome/enhansome-notion",
     "enhanced_repository_description": null,
