@@ -12,7 +12,7 @@
             "archived": false,
             "id": 329971644,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:27:45Z",
+            "last_commit": "2026-08-19T18:15:49Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
             "stars": 7025
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5426
+            "stars": 5427
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5426
+            "stars": 5427
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-02-16T23:25:50Z",
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4373
+            "stars": 4372
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:24.274Z",
+    "last_updated": "2026-08-19T21:46:15.862Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_id": 324687379,
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
