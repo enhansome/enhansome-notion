@@ -12,10 +12,10 @@
             "archived": false,
             "id": 329971644,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T18:15:49Z",
+            "last_commit": "2026-08-20T16:45:23Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7025
+            "stars": 7026
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-02-28T06:13:09Z",
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5020
+            "stars": 5021
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-02T01:33:29Z",
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 387
+            "stars": 388
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5427
+            "stars": 5428
           }
         },
         {
@@ -246,7 +246,7 @@
             "archived": false,
             "id": 359022072,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T23:20:12Z",
+            "last_commit": "2026-08-20T20:59:14Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5650
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-18T09:55:23Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5427
+            "stars": 5428
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-02-16T23:25:50Z",
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4372
+            "stars": 4371
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-18T23:15:43Z",
             "owner": "4ier",
             "repo": "notion-cli",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:46:15.862Z",
+    "last_updated": "2026-08-20T21:49:50.415Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_id": 324687379,
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
