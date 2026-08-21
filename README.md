@@ -39,8 +39,8 @@
 
 ## Tools
 
-* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,021 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
-* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 388 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-02 -  The CDN service of the free brand icons set for your Notion pages.
+* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,020 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
+* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 391 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-02 -  The CDN service of the free brand icons set for your Notion pages.
 * [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) ⭐ 284 | 🐛 5 | 🌐 Python | 📅 2021-11-23 - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 * [notionterm](https://github.com/ariary/notionterm) ⭐ 138 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
 * [Mk Notes](https://github.com/Myastr0/mk-notes) ⭐ 125 | 🐛 9 | 🌐 TypeScript | 📅 2025-12-23 - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
@@ -132,12 +132,12 @@
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,650 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-20 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,649 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-20 - Reference implementation of the Notion API in Javascript by the Notion Team.
 * [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,428 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-18 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,371 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
-* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,177 | 🐛 18 | 🌐 Python | 📅 2026-08-18 - Python version of the reference notion-sdk-js Javascript client.
+* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,177 | 🐛 18 | 🌐 Python | 📅 2026-08-21 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,840 | 🐛 3 | 🌐 Go | 📅 2026-07-02 - Unofficial Go API for Notion.so.
-* [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,662 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
+* [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,663 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
 * [notion2md](https://github.com/echo724/notion2md) ⭐ 757 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
 * [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) ⭐ 435 | 🐛 13 | 🌐 PHP | 📅 2026-06-04 - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 * [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) ⭐ 279 | 🐛 8 | 🌐 TypeScript | 📅 2022-06-24 - Unofficial Node.js API wrapper for Notion.so. Work in progress.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
