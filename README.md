@@ -21,7 +21,7 @@
 ## Notion as Blog CMS
 
 * [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,027 | 🐛 151 | 🌐 TypeScript | 📅 2026-08-24 - A starter kit using React Notion X to build into SSG with Next.js.
-* [Notion Blog](https://github.com/ijjk/notion-blog) ⭐ 3,858 | 🐛 29 | 🌐 TypeScript | 📅 2024-04-08 - It is a tool that uses Next.js to generate Notion as static blog web pages.
+* [Notion Blog](https://github.com/ijjk/notion-blog) ⭐ 3,859 | 🐛 29 | 🌐 TypeScript | 📅 2024-04-08 - It is a tool that uses Next.js to generate Notion as static blog web pages.
 * [Notablog](https://github.com/dragonman225/notablog) ⭐ 682 | 🐛 23 | 🌐 TypeScript | 📅 2023-09-20 - Generate a minimalistic blog from Notion table.
 * [React Notion Blog](https://github.com/splitbee/react-notion-blog) ⭐ 189 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-06 - Notion blog boilerplate using React Notion to build into SSG with Next.js.
 * [Feather](https://feather.so) - A paid tool to create a public blog & newsletter using Notion.
@@ -147,7 +147,7 @@
 * [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) ⭐ 172 | 🐛 12 | 🌐 TypeScript | 📅 2023-01-06 - NodeJS tool to convert public notion pages to HTML.
 * [notion-helper](https://github.com/TomFrankly/notion-helper) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-15 - Library for writing Notion API requests with a lot less code
 * [notion-ruby](https://github.com/danmurphy1217/notion-ruby) ⭐ 70 | 🐛 5 | 🌐 Ruby | 📅 2021-09-06 - Unofficial Notion Client for Ruby.
-* [notion-sdk-php](https://github.com/brd6/notion-sdk-php/) ⭐ 61 | 🐛 4 | 🌐 PHP | 📅 2026-08-24 - PHP library for the official Notion API.
+* [notion-sdk-php](https://github.com/brd6/notion-sdk-php/) ⭐ 61 | 🐛 3 | 🌐 PHP | 📅 2026-08-24 - PHP library for the official Notion API.
 * [notion-ts-client](https://github.com/velsa/notion-ts-client) ⭐ 32 | 🐛 5 | 🌐 TypeScript | 📅 2025-06-17 - Generate an easy to use custom Typescript SDK to access and modify the data in your Notion Databases.
 * [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) ⭐ 25 | 🐛 3 | 🌐 Kotlin | 📅 2021-11-18 - Unofficial Notion.so API wrapper, written in Kotlin.
 * [notion-sdk-deno](https://github.com/yeukfei02/notion-sdk-deno) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-02 - Unofficial Notion Client for Deno.

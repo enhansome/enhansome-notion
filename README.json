@@ -12,7 +12,7 @@
             "archived": false,
             "id": 329971644,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:06:22Z",
+            "last_commit": "2026-08-24T15:22:46Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
             "stars": 7027
@@ -30,7 +30,7 @@
             "last_commit": "2024-04-08T13:51:04Z",
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3858
+            "stars": 3859
           }
         },
         {
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 468870898,
             "language": "PHP",
-            "last_commit": "2026-08-24T13:45:08Z",
+            "last_commit": "2026-08-24T16:00:38Z",
             "owner": "brd6",
             "repo": "notion-sdk-php",
             "stars": 61
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:15.948Z",
+    "last_updated": "2026-08-24T21:49:45.399Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_id": 324687379,
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
