@@ -12,10 +12,10 @@
             "archived": false,
             "id": 329971644,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T20:34:30Z",
+            "last_commit": "2026-08-24T10:06:22Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7026
+            "stars": 7027
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2021-11-23T08:57:25Z",
             "owner": "elblogbruno",
             "repo": "NotionAI-MyMind",
-            "stars": 284
+            "stars": 283
           }
         },
         {
@@ -195,7 +195,7 @@
             "archived": false,
             "id": 287649568,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T20:26:36Z",
+            "last_commit": "2026-08-24T13:26:00Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
             "stars": 5431
@@ -261,7 +261,7 @@
             "archived": false,
             "id": 287649568,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T20:26:36Z",
+            "last_commit": "2026-08-24T13:26:00Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
             "stars": 5431
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 468870898,
             "language": "PHP",
-            "last_commit": "2026-07-23T12:53:22Z",
+            "last_commit": "2026-08-24T13:45:08Z",
             "owner": "brd6",
             "repo": "notion-sdk-php",
             "stars": 61
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:41:21.949Z",
+    "last_updated": "2026-08-24T14:16:15.948Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_id": 324687379,
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
