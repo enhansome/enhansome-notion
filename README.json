@@ -117,7 +117,7 @@
             "last_commit": "2026-02-28T06:13:09Z",
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5022
+            "stars": 5021
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-24T13:26:00Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431
+            "stars": 5432
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-20T20:59:14Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5651
+            "stars": 5652
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-24T13:26:00Z",
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431
+            "stars": 5432
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2025-10-17T18:14:25Z",
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-18T23:15:43Z",
             "owner": "4ier",
             "repo": "notion-cli",
-            "stars": 242
+            "stars": 241
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:49:45.399Z",
+    "last_updated": "2026-08-25T06:09:30.594Z",
     "original_repository": "spencerpauly/awesome-notion",
     "original_repository_id": 324687379,
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
