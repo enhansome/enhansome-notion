@@ -249,7 +249,7 @@
             "last_commit": "2026-08-25T23:01:27Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5653
+            "stars": 5652
           }
         },
         {
@@ -291,7 +291,7 @@
             "archived": false,
             "id": 367164562,
             "language": "Python",
-            "last_commit": "2026-08-22T00:11:55Z",
+            "last_commit": "2026-08-27T01:31:58Z",
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2177
@@ -414,7 +414,7 @@
             "last_commit": "2026-04-14T07:20:59Z",
             "owner": "MerkulovDaniil",
             "repo": "notion4ever",
-            "stars": 178
+            "stars": 179
           }
         },
         {
@@ -527,9 +527,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:54:07.108Z",
-    "original_repository": "spencerpauly/awesome-notion",
-    "original_repository_id": 324687379,
+    "last_updated": "2026-08-27T11:53:04.494Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 324687379,
+      "language": null,
+      "last_commit": "2026-03-15T21:12:07Z",
+      "owner": "spencerpauly",
+      "repo": "awesome-notion",
+      "stars": 842
+    },
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
     "enhanced_repository": "enhansome/enhansome-notion",
     "enhanced_repository_description": null,
