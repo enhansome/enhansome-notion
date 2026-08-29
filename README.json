@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy your own Notion-powered website in minutes with Next.js and Vercel.",
+            "homepage": "https://transitivebullsh.it/nextjs-notion-starter-kit",
             "id": 329971644,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T09:47:41Z",
+            "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7028
+            "stars": 7028,
+            "topics": [
+              "blog",
+              "nextjs",
+              "notion",
+              "portfolio",
+              "react",
+              "react-notion-x"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -26,12 +38,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Next.js site using new SSG support with a Notion backed blog",
+            "homepage": "https://notion-blog.vercel.app",
             "id": 231842017,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-08T13:51:04Z",
+            "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3859
+            "stars": 3859,
+            "topics": [
+              "nextjs",
+              "notion",
+              "static-site-generation",
+              "typescript",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -42,12 +65,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tell stories of your work with Notion",
+            "homepage": "https://dragonman225.js.org/notablog.html",
             "id": 198864465,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-09-20T20:11:12Z",
+            "open_issues": 23,
             "owner": "dragonman225",
             "repo": "notablog",
-            "stars": 682
+            "stars": 682,
+            "topics": [
+              "blog",
+              "blog-engine",
+              "cms",
+              "nodejs",
+              "notablog",
+              "notion",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -58,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notion Blog boilerplate using react-notion, notion-api-worker & next.js",
+            "homepage": null,
             "id": 272178532,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-06T08:51:10Z",
+            "open_issues": 13,
             "owner": "splitbee",
             "repo": "react-notion-blog",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         }
@@ -80,12 +121,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to build simple, powerful websites with nothing but Notion.",
+            "homepage": "https://notion.dog",
             "id": 341404924,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-13T02:49:34Z",
+            "open_issues": 10,
             "owner": "notiondog",
             "repo": "notion.dog",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "notion",
+              "notion-website"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -96,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Hosting for Notion Sites!",
+            "homepage": null,
             "id": 748467275,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-30T14:59:59Z",
+            "open_issues": 22,
             "owner": "velsa",
             "repo": "notehost",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         }
@@ -118,12 +172,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An enhancer/customiser for the all-in-one productivity workspace Notion",
+            "homepage": "https://notion-enhancer.github.io/",
             "id": 242956320,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-28T06:13:09Z",
+            "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5020
+            "stars": 5020,
+            "topics": [
+              "chrome",
+              "chrome-extension",
+              "edge",
+              "edge-extension",
+              "enhancer",
+              "extensions",
+              "firefox",
+              "firefox-extension",
+              "hack",
+              "integrations",
+              "linux",
+              "macos",
+              "mod",
+              "mod-loader",
+              "mods",
+              "notion",
+              "notion-enhancer",
+              "productivity",
+              "themes",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -134,12 +214,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Colorable and resizable CDN for Simple Icons",
+            "homepage": "https://cdn.simpleicons.org",
             "id": 542566956,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T01:54:54Z",
+            "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "badgen",
+              "brands",
+              "cdn",
+              "colorable",
+              "colors",
+              "customizable",
+              "icons",
+              "logos",
+              "notion",
+              "resizable",
+              "simple-icons",
+              "simple-icons-cdn",
+              "simpleicons",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -150,12 +250,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo uses AI and the wonderful Notion to enable you to add anything on the web to your \"Mind\" and forget about everything else.",
+            "homepage": "https://elblogbruno.github.io/NotionAI-MyMind/",
             "id": 286764653,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-23T08:57:25Z",
+            "open_issues": 5,
             "owner": "elblogbruno",
             "repo": "NotionAI-MyMind",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "ai",
+              "android",
+              "apple",
+              "chromium",
+              "collections",
+              "customizable",
+              "mind",
+              "mind-server",
+              "mymind",
+              "notion",
+              "notion-ai",
+              "notion-database",
+              "notion-mymind",
+              "notionai-mymind",
+              "searchable-database",
+              "second-brain",
+              "tag",
+              "tagging",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -166,12 +291,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥️📖 Embed reverse shell in Notion pages",
+            "homepage": null,
             "id": 491132674,
             "language": "Go",
+            "license": "Unlicense",
             "last_commit": "2023-03-07T15:39:03Z",
+            "open_issues": 3,
             "owner": "ariary",
             "repo": "notionterm",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "c2c",
+              "infosec",
+              "notion",
+              "notion-api",
+              "pentest",
+              "pentest-tool",
+              "redteam",
+              "reverse-shell",
+              "webshell"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -182,12 +322,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown to Notion conversion tool 🔄",
+            "homepage": "https://www.mk-notes.io/",
             "id": 924239110,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-23T17:06:28Z",
+            "open_issues": 9,
             "owner": "Myastr0",
             "repo": "mk-notes",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "cli",
+              "knowledge",
+              "markdown",
+              "markdown-to-notion",
+              "mk-notes",
+              "mk-notes-cli",
+              "notion",
+              "notion-api"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         }
@@ -204,12 +358,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and accurate React renderer for Notion. TS batteries included. ⚡️",
+            "homepage": "https://react-notion-x-demo.transitivebullsh.it",
             "id": 287649568,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:26:00Z",
+            "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431
+            "stars": 5431,
+            "topics": [
+              "nextjs",
+              "notion",
+              "notion-api",
+              "react",
+              "react-notion",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -220,12 +386,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast React renderer for Notion pages ",
+            "homepage": "https://react-notion.com",
             "id": 255569926,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-28T07:44:29Z",
+            "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 2998
+            "stars": 2998,
+            "topics": [
+              "headless-cms",
+              "notion",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -236,12 +411,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast Vue renderer for Notion pages",
+            "homepage": "https://vue-notion.now.sh",
             "id": 321740547,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-05T13:17:53Z",
+            "open_issues": 24,
             "owner": "janniks",
             "repo": "vue-notion",
-            "stars": 920
+            "stars": 920,
+            "topics": [
+              "cms",
+              "notion",
+              "notion-api",
+              "notion-blog",
+              "notion-database",
+              "nuxt",
+              "nuxtjs",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         }
@@ -258,12 +448,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Notion JavaScript Client",
+            "homepage": "https://developers.notion.com/",
             "id": 359022072,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:13:42Z",
+            "open_issues": 71,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5654
+            "stars": 5654,
+            "topics": [
+              "api",
+              "api-client",
+              "javascript",
+              "js",
+              "notion",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -274,12 +476,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and accurate React renderer for Notion. TS batteries included. ⚡️",
+            "homepage": "https://react-notion-x-demo.transitivebullsh.it",
             "id": 287649568,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:26:00Z",
+            "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431
+            "stars": 5431,
+            "topics": [
+              "nextjs",
+              "notion",
+              "notion-api",
+              "react",
+              "react-notion",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -290,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Python API client for Notion.so",
+            "homepage": null,
             "id": 159102574,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-16T23:25:50Z",
+            "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4372
+            "stars": 4372,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -306,12 +525,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notion API client SDK, rewritten in Python! (sync + async)",
+            "homepage": "https://ramnes.github.io/notion-sdk-py",
             "id": 367164562,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:53:26Z",
+            "open_issues": 23,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2177
+            "stars": 2177,
+            "topics": [
+              "api-client",
+              "async",
+              "dataclasses",
+              "httpx",
+              "notion",
+              "notion-api",
+              "python",
+              "python-client"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -322,12 +555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Go API for Notion.so",
+            "homepage": "https://blog.kowalczyk.info/article/c9df78cbeaae4e0cb2848c9964bcfc94/using-notion-api-go-client.html",
             "id": 140402533,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-02T10:38:41Z",
+            "open_issues": 3,
             "owner": "kjk",
             "repo": "notionapi",
-            "stars": 1840
+            "stars": 1840,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -338,12 +576,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notion as CMS with easy API access",
+            "homepage": "https://notion-api.splitbee.io",
             "id": 257580293,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-10-17T18:14:25Z",
+            "open_issues": 29,
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1664
+            "stars": 1664,
+            "topics": [
+              "api",
+              "cloudflare-workers",
+              "cms",
+              "notion"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -354,12 +602,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notion Markdown Exporter with Python Cli",
+            "homepage": null,
             "id": 275703871,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-10T11:15:45Z",
+            "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 757
+            "stars": 757,
+            "topics": [
+              "markdown",
+              "notion",
+              "notion-markdown"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -370,12 +627,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effortless Notion integrations with Laravel",
+            "homepage": "https://notionforlaravel.com",
             "id": 367348616,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-04T12:47:23Z",
+            "open_issues": 13,
             "owner": "5am-code",
             "repo": "laravel-notion-api",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "api",
+              "effortless-notion-integrations",
+              "laravel",
+              "notion",
+              "notion-api",
+              "notion-integration",
+              "notion-sdk",
+              "php",
+              "php-notion"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -386,12 +658,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Notion.so API",
+            "homepage": "https://www.npmjs.com/package/notion-api-js",
             "id": 174422149,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-06-24T22:23:21Z",
+            "open_issues": 8,
             "owner": "cstrnt",
             "repo": "notion-api",
-            "stars": 279
+            "stars": 279,
+            "topics": [
+              "api-client",
+              "api-wrapper",
+              "nodejs",
+              "notion"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -402,12 +684,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Work seamlessly with Notion from the command line. Full Notion API coverage in a single binary.",
+            "homepage": "https://github.com/4ier/notion-cli",
             "id": 1160977040,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-18T23:15:43Z",
+            "open_issues": 12,
             "owner": "4ier",
             "repo": "notion-cli",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "ai-agents",
+              "cli",
+              "developer-tools",
+              "go",
+              "notion",
+              "notion-api",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -418,12 +713,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI and library for exporting .md and .csv files from any Notion page.",
+            "homepage": null,
             "id": 354516768,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-12T12:52:40Z",
+            "open_issues": 2,
             "owner": "yannbolliger",
             "repo": "notion-exporter",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "cli",
+              "markdown",
+              "notion",
+              "notion-api",
+              "npm",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -434,12 +741,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.",
+            "homepage": null,
             "id": 452619821,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-14T07:20:59Z",
+            "open_issues": 5,
             "owner": "MerkulovDaniil",
             "repo": "notion4ever",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "markdown",
+              "notion",
+              "notion-api",
+              "python",
+              "static-site"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -450,12 +768,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NodeJS tool to convert public Notion pages to HTML from page ID",
+            "homepage": null,
             "id": 281968406,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T12:35:18Z",
+            "open_issues": 12,
             "owner": "asnunes",
             "repo": "notion-page-to-html",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "equation",
+              "html",
+              "html5",
+              "notion-pages"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -466,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of functions for working more easily with the Notion API",
+            "homepage": null,
             "id": 854755671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-15T19:23:24Z",
+            "open_issues": 0,
             "owner": "TomFrankly",
             "repo": "notion-helper",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -482,12 +815,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Notion Client for Ruby.",
+            "homepage": "https://rubygems.org/gems/notion",
             "id": 307820004,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-09-06T20:41:29Z",
+            "open_issues": 5,
             "owner": "danmurphy1217",
             "repo": "notion-ruby",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "notion",
+              "notion-api",
+              "notion-client",
+              "ruby",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -498,12 +842,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP library for the official Notion API.",
+            "homepage": "https://sdk-php.notiondesk.help",
             "id": 468870898,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:00:38Z",
+            "open_issues": 3,
             "owner": "brd6",
             "repo": "notion-sdk-php",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "notion",
+              "notion-api",
+              "notion-client",
+              "notion-sdk",
+              "php",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -514,12 +870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generates an easy to use and fully typed API to access and modify the data in Notion Databases",
+            "homepage": null,
             "id": 759215847,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-17T17:56:49Z",
+            "open_issues": 5,
             "owner": "velsa",
             "repo": "notion-ts-client",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -530,12 +891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 404095222,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2021-11-18T01:59:57Z",
+            "open_issues": 3,
             "owner": "notionsdk",
             "repo": "notion-sdk-kotlin",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -546,12 +912,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "notion-sdk-deno",
+            "homepage": null,
             "id": 369545132,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-02T14:18:52Z",
+            "open_issues": 0,
             "owner": "yeukfei02",
             "repo": "notion-sdk-deno",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "deno",
+              "notion"
+            ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         }
@@ -560,15 +934,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:12:31.658Z",
+    "last_updated": "2026-08-29T04:35:40.242Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Notion related things.",
+      "homepage": null,
       "id": 324687379,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
+      "open_issues": 26,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 842
+      "stars": 842,
+      "topics": [
+        "awesome-list",
+        "notion"
+      ]
     },
     "original_repository_sha": "4f7ae574d6dcf5427b1020a3c4c7b12f25315cc8",
     "enhanced_repository": "enhansome/enhansome-notion",
