@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T09:47:41Z",
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7029
+            "stars": 7028
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -136,10 +136,10 @@
             "archived": false,
             "id": 542566956,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T07:33:52Z",
+            "last_commit": "2026-08-29T01:54:54Z",
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 393
+            "stars": 394
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -225,7 +225,7 @@
             "last_commit": "2024-10-28T07:44:29Z",
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 2999
+            "stars": 2998
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
         },
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 359022072,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:08:59Z",
+            "last_commit": "2026-08-28T18:13:42Z",
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5654
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:29:57.543Z",
+    "last_updated": "2026-08-29T03:12:31.658Z",
     "original_repository_info": {
       "archived": false,
       "id": 324687379,

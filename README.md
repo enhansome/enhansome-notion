@@ -20,7 +20,7 @@
 
 ## Notion as Blog CMS
 
-* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,029 | 🐛 151 | 🌐 TypeScript | 📅 2026-08-26 - A starter kit using React Notion X to build into SSG with Next.js.
+* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,028 | 🐛 151 | 🌐 TypeScript | 📅 2026-08-26 - A starter kit using React Notion X to build into SSG with Next.js.
 * [Notion Blog](https://github.com/ijjk/notion-blog) ⭐ 3,859 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-08 - It is a tool that uses Next.js to generate Notion as static blog web pages.
 * [Notablog](https://github.com/dragonman225/notablog) ⭐ 682 | 🐛 23 | 🌐 TypeScript | 📅 2023-09-20 - Generate a minimalistic blog from Notion table.
 * [React Notion Blog](https://github.com/splitbee/react-notion-blog) ⭐ 189 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-06 - Notion blog boilerplate using React Notion to build into SSG with Next.js.
@@ -40,7 +40,7 @@
 ## Tools
 
 * [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,020 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
-* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 393 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-23 -  The CDN service of the free brand icons set for your Notion pages.
+* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 394 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29 -  The CDN service of the free brand icons set for your Notion pages.
 * [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) ⭐ 283 | 🐛 5 | 🌐 Python | 📅 2021-11-23 - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 * [notionterm](https://github.com/ariary/notionterm) ⭐ 138 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
 * [Mk Notes](https://github.com/Myastr0/mk-notes) ⭐ 125 | 🐛 9 | 🌐 TypeScript | 📅 2025-12-23 - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
@@ -127,12 +127,12 @@
 ## Renderers
 
 * [React Notion X](https://github.com/NotionX/react-notion-x) ⭐ 5,431 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-24 - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
-* [React Notion](https://github.com/splitbee/react-notion) ⭐ 2,999 | 🐛 42 | 🌐 TypeScript | 📅 2024-10-28 - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
+* [React Notion](https://github.com/splitbee/react-notion) ⭐ 2,998 | 🐛 42 | 🌐 TypeScript | 📅 2024-10-28 - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
 * [Vue Notion](https://github.com/janniks/vue-notion) ⭐ 920 | 🐛 24 | 🌐 Vue | 📅 2024-09-05 - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,654 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-27 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,654 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-28 - Reference implementation of the Notion API in Javascript by the Notion Team.
 * [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,431 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-24 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,372 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
 * [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,177 | 🐛 23 | 🌐 Python | 📅 2026-08-28 - Python version of the reference notion-sdk-js Javascript client.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
