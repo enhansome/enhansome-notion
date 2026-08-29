@@ -420,7 +420,7 @@
             "open_issues": 24,
             "owner": "janniks",
             "repo": "vue-notion",
-            "stars": 920,
+            "stars": 921,
             "topics": [
               "cms",
               "notion",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:13:42Z",
-            "open_issues": 71,
+            "last_commit": "2026-08-29T17:43:56Z",
+            "open_issues": 72,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5654,
+            "stars": 5655,
             "topics": [
               "api",
               "api-client",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:40.242Z",
+    "last_updated": "2026-08-29T23:26:37.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
