@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5020,
+            "stars": 5021,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:26:37.432Z",
+    "last_updated": "2026-08-30T23:37:41.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",

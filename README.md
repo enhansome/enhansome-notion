@@ -39,7 +39,7 @@
 
 ## Tools
 
-* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,020 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
+* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,021 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
 * [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 394 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29 -  The CDN service of the free brand icons set for your Notion pages.
 * [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) ⭐ 283 | 🐛 5 | 🌐 Python | 📅 2021-11-23 - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 * [notionterm](https://github.com/ariary/notionterm) ⭐ 138 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
