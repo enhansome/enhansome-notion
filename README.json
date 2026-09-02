@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3858,
+            "stars": 3859,
             "topics": [
               "nextjs",
               "notion",
@@ -367,7 +367,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431,
+            "stars": 5428,
             "topics": [
               "nextjs",
               "notion",
@@ -453,8 +453,8 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T17:11:44Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-02T20:32:52Z",
+            "open_issues": 73,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5655,
@@ -485,7 +485,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431,
+            "stars": 5428,
             "topics": [
               "nextjs",
               "notion",
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T00:32:26Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-02T00:27:39Z",
+            "open_issues": 24,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2177,
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "markdown",
               "notion",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:25:17.525Z",
+    "last_updated": "2026-09-02T23:24:30.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
