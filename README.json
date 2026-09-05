@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "badgen",
               "brands",
@@ -367,7 +367,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5428,
+            "stars": 5429,
             "topics": [
               "nextjs",
               "notion",
@@ -457,7 +457,7 @@
             "open_issues": 75,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5657,
+            "stars": 5660,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5428,
+            "stars": 5429,
             "topics": [
               "nextjs",
               "notion",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4372,
+            "stars": 4371,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -799,7 +799,7 @@
             "id": 854755671,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-01-15T19:23:24Z",
+            "last_commit": "2026-09-05T22:46:02Z",
             "open_issues": 0,
             "owner": "TomFrankly",
             "repo": "notion-helper",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:06:04.434Z",
+    "last_updated": "2026-09-05T23:02:10.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
