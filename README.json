@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7034,
+            "stars": 7035,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3859,
+            "stars": 3860,
             "topics": [
               "nextjs",
               "notion",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T16:28:55Z",
+            "last_commit": "2026-09-08T19:09:20Z",
             "open_issues": 75,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5660,
+            "stars": 5661,
             "topics": [
               "api",
               "api-client",
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:24:58Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-08T16:56:22Z",
+            "open_issues": 26,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2179,
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:36:14.512Z",
+    "last_updated": "2026-09-08T23:27:58.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
