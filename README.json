@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7035,
+            "stars": 7034,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5021,
+            "stars": 5020,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -219,11 +219,11 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T13:51:57Z",
+            "last_commit": "2026-09-10T11:31:43Z",
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 397,
+            "stars": 396,
             "topics": [
               "badgen",
               "brands",
@@ -453,8 +453,8 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T19:09:20Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-09T23:31:32Z",
+            "open_issues": 76,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5661,
@@ -530,11 +530,11 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T00:27:11Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-10T00:25:20Z",
+            "open_issues": 29,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2180,
+            "stars": 2181,
             "topics": [
               "api-client",
               "async",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:22:06.245Z",
+    "last_updated": "2026-09-10T23:15:38.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
