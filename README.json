@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 396,
+            "stars": 398,
             "topics": [
               "badgen",
               "brands",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T23:31:32Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-11T19:34:04Z",
+            "open_issues": 79,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5661,
+            "stars": 5662,
             "topics": [
               "api",
               "api-client",
@@ -534,7 +534,7 @@
             "open_issues": 29,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2181,
+            "stars": 2182,
             "topics": [
               "api-client",
               "async",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:15:38.495Z",
+    "last_updated": "2026-09-11T23:23:21.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
