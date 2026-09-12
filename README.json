@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5020,
+            "stars": 5021,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "badgen",
               "brands",
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T00:25:20Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-12T00:25:29Z",
+            "open_issues": 32,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2182,
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:23:21.653Z",
+    "last_updated": "2026-09-12T23:06:27.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
