@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7034,
+            "stars": 7035,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5021,
+            "stars": 5022,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -219,11 +219,11 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T11:31:43Z",
+            "last_commit": "2026-09-13T14:11:59Z",
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "badgen",
               "brands",
@@ -367,7 +367,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5430,
+            "stars": 5431,
             "topics": [
               "nextjs",
               "notion",
@@ -395,7 +395,7 @@
             "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 2998,
+            "stars": 2999,
             "topics": [
               "headless-cms",
               "notion",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T19:34:04Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-13T03:57:57Z",
+            "open_issues": 80,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5662,
+            "stars": 5663,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5430,
+            "stars": 5431,
             "topics": [
               "nextjs",
               "notion",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4371,
+            "stars": 4372,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -585,7 +585,7 @@
             "open_issues": 29,
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1664,
+            "stars": 1665,
             "topics": [
               "api",
               "cloudflare-workers",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:06:27.636Z",
+    "last_updated": "2026-09-13T23:14:53.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
