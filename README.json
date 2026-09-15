@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7035,
+            "stars": 7034,
             "topics": [
               "blog",
               "nextjs",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 401,
+            "stars": 403,
             "topics": [
               "badgen",
               "brands",
@@ -367,7 +367,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431,
+            "stars": 5430,
             "topics": [
               "nextjs",
               "notion",
@@ -453,8 +453,8 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T03:57:57Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-15T23:31:36Z",
+            "open_issues": 82,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5663,
@@ -485,7 +485,7 @@
             "open_issues": 181,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5431,
+            "stars": 5430,
             "topics": [
               "nextjs",
               "notion",
@@ -531,7 +531,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-14T09:19:36Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2182,
@@ -722,7 +722,7 @@
             "open_issues": 2,
             "owner": "yannbolliger",
             "repo": "notion-exporter",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "cli",
               "markdown",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:54:31.022Z",
+    "last_updated": "2026-09-15T23:33:32.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
