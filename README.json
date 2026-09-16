@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7034,
+            "stars": 7035,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3859,
+            "stars": 3856,
             "topics": [
               "nextjs",
               "notion",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5021,
+            "stars": 5020,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T14:11:59Z",
+            "last_commit": "2026-09-16T12:15:53Z",
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -364,7 +364,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-03T21:02:40Z",
-            "open_issues": 181,
+            "open_issues": 184,
             "owner": "NotionX",
             "repo": "react-notion-x",
             "stars": 5430,
@@ -453,8 +453,8 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T23:31:36Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-16T20:15:59Z",
+            "open_issues": 81,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5663,
@@ -482,7 +482,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-03T21:02:40Z",
-            "open_issues": 181,
+            "open_issues": 184,
             "owner": "NotionX",
             "repo": "react-notion-x",
             "stars": 5430,
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:33:32.568Z",
+    "last_updated": "2026-09-16T23:41:32.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
