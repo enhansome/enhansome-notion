@@ -15,7 +15,7 @@
             "id": 329971644,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:42:51Z",
+            "last_commit": "2026-09-19T07:38:03Z",
             "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "badgen",
               "brands",
@@ -363,11 +363,11 @@
             "id": 287649568,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:02:40Z",
+            "last_commit": "2026-09-19T07:37:31Z",
             "open_issues": 184,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5430,
+            "stars": 5431,
             "topics": [
               "nextjs",
               "notion",
@@ -481,11 +481,11 @@
             "id": 287649568,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:02:40Z",
+            "last_commit": "2026-09-19T07:37:31Z",
             "open_issues": 184,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5430,
+            "stars": 5431,
             "topics": [
               "nextjs",
               "notion",
@@ -534,7 +534,7 @@
             "open_issues": 26,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2183,
+            "stars": 2184,
             "topics": [
               "api-client",
               "async",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:23:41.285Z",
+    "last_updated": "2026-09-19T23:15:46.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
