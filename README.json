@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7033,
+            "stars": 7031,
             "topics": [
               "blog",
               "nextjs",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T12:15:53Z",
+            "last_commit": "2026-09-20T05:00:37Z",
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:15:46.935Z",
+    "last_updated": "2026-09-20T23:19:29.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",

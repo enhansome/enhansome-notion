@@ -20,7 +20,7 @@
 
 ## Notion as Blog CMS
 
-* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,033 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-19 - A starter kit using React Notion X to build into SSG with Next.js.
+* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,031 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-19 - A starter kit using React Notion X to build into SSG with Next.js.
 * [Notion Blog](https://github.com/ijjk/notion-blog) ⭐ 3,856 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-08 - It is a tool that uses Next.js to generate Notion as static blog web pages.
 * [Notablog](https://github.com/dragonman225/notablog) ⭐ 682 | 🐛 23 | 🌐 TypeScript | 📅 2023-09-20 - Generate a minimalistic blog from Notion table.
 * [React Notion Blog](https://github.com/splitbee/react-notion-blog) ⭐ 189 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-06 - Notion blog boilerplate using React Notion to build into SSG with Next.js.
@@ -40,7 +40,7 @@
 ## Tools
 
 * [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,021 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
-* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 406 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 -  The CDN service of the free brand icons set for your Notion pages.
+* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 406 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 -  The CDN service of the free brand icons set for your Notion pages.
 * [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) ⭐ 284 | 🐛 5 | 🌐 Python | 📅 2021-11-23 - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 * [notionterm](https://github.com/ariary/notionterm) ⭐ 138 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
 * [Mk Notes](https://github.com/Myastr0/mk-notes) ⭐ 125 | 🐛 9 | 🌐 TypeScript | 📅 2025-12-23 - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
