@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-19T07:38:03Z",
-            "open_issues": 151,
+            "open_issues": 153,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
             "stars": 7031,
@@ -130,7 +130,7 @@
             "open_issues": 10,
             "owner": "notiondog",
             "repo": "notion.dog",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "notion",
               "notion-website"
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5021,
+            "stars": 5020,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:19:29.219Z",
+    "last_updated": "2026-09-22T00:11:30.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
