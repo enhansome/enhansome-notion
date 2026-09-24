@@ -132,16 +132,16 @@
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,666 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-16 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,668 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-16 - Reference implementation of the Notion API in Javascript by the Notion Team.
 * [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,433 | 🐛 184 | 🌐 TypeScript | 📅 2026-09-19 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,372 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
-* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,184 | 🐛 28 | 🌐 Python | 📅 2026-09-23 - Python version of the reference notion-sdk-js Javascript client.
+* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,187 | 🐛 28 | 🌐 Python | 📅 2026-09-24 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,839 | 🐛 0 | 🌐 Go | 📅 2026-09-22 - Unofficial Go API for Notion.so.
 * [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,665 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
 * [notion2md](https://github.com/echo724/notion2md) ⭐ 758 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
 * [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) ⭐ 436 | 🐛 13 | 🌐 PHP | 📅 2026-06-04 - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 * [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) ⭐ 279 | 🐛 8 | 🌐 TypeScript | 📅 2022-06-24 - Unofficial Node.js API wrapper for Notion.so. Work in progress.
-* [Notion CLI](https://github.com/4ier/notion-cli) ⭐ 246 | 🐛 12 | 🌐 Go | 📅 2026-07-18 - A fast, full-featured command-line interface for Notion with support for pages, databases, blocks, comments, and more.
+* [Notion CLI](https://github.com/4ier/notion-cli) ⭐ 247 | 🐛 12 | 🌐 Go | 📅 2026-07-18 - A fast, full-featured command-line interface for Notion with support for pages, databases, blocks, comments, and more.
 * [notion-exporter](https://github.com/yannbolliger/notion-exporter) ⭐ 189 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-12 - CLI and library for exporting .md and .csv files from any Notion.so page.
 * [notion4ever](https://github.com/MerkulovDaniil/notion4ever) ⭐ 179 | 🐛 5 | 🌐 Python | 📅 2026-04-14 - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
 * [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) ⭐ 172 | 🐛 12 | 🌐 TypeScript | 📅 2023-01-06 - NodeJS tool to convert public notion pages to HTML.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
