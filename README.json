@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7031,
+            "stars": 7032,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3856,
+            "stars": 3857,
             "topics": [
               "nextjs",
               "notion",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "badgen",
               "brands",
@@ -395,7 +395,7 @@
             "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 2999,
+            "stars": 3000,
             "topics": [
               "headless-cms",
               "notion",
@@ -457,7 +457,7 @@
             "open_issues": 81,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5668,
+            "stars": 5670,
             "topics": [
               "api",
               "api-client",
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "markdown",
               "notion",
@@ -722,7 +722,7 @@
             "open_issues": 2,
             "owner": "yannbolliger",
             "repo": "notion-exporter",
-            "stars": 190,
+            "stars": 189,
             "topics": [
               "cli",
               "markdown",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:51:14.218Z",
+    "last_updated": "2026-09-29T01:04:39.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
