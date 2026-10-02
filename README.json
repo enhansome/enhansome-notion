@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7031,
+            "stars": 7029,
             "topics": [
               "blog",
               "nextjs",
@@ -154,7 +154,7 @@
             "open_issues": 22,
             "owner": "velsa",
             "repo": "notehost",
-            "stars": 168,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "badgen",
               "brands",
@@ -364,10 +364,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-19T07:37:31Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5433,
+            "stars": 5432,
             "topics": [
               "nextjs",
               "notion",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T18:57:26Z",
+            "last_commit": "2026-10-01T20:57:52Z",
             "open_issues": 65,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5669,
+            "stars": 5668,
             "topics": [
               "api",
               "api-client",
@@ -482,10 +482,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-19T07:37:31Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5433,
+            "stars": 5432,
             "topics": [
               "nextjs",
               "notion",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4373,
+            "stars": 4374,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -530,11 +530,11 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T00:29:49Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-02T00:29:30Z",
+            "open_issues": 33,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2189,
+            "stars": 2190,
             "topics": [
               "api-client",
               "async",
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "markdown",
               "notion",
@@ -847,8 +847,8 @@
             "id": 468870898,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-25T10:45:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-01T19:12:30Z",
+            "open_issues": 4,
             "owner": "brd6",
             "repo": "notion-sdk-php",
             "stars": 61,
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:37:57.269Z",
+    "last_updated": "2026-10-02T00:56:40.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -946,7 +946,7 @@
       "open_issues": 31,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 843,
+      "stars": 844,
       "topics": [
         "awesome-list",
         "notion"
