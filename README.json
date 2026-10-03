@@ -154,7 +154,7 @@
             "open_issues": 22,
             "owner": "velsa",
             "repo": "notehost",
-            "stars": 167,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:34:08.562Z",
+    "last_updated": "2026-10-03T04:57:56.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",

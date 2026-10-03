@@ -29,7 +29,7 @@
 ## Notion as Website
 
 * [Notion Dog](https://github.com/notiondog/notion.dog) ⭐ 361 | 🐛 10 | 📅 2022-12-13 - The easiest way to build simple, powerful websites with nothing but Notion.
-* [NoteHost](https://github.com/velsa/notehost) ⭐ 167 | 🐛 22 | 🌐 TypeScript | 📅 2024-07-30 - Free Hosting for your Notion Pages on your custom domain.
+* [NoteHost](https://github.com/velsa/notehost) ⭐ 166 | 🐛 22 | 🌐 TypeScript | 📅 2024-07-30 - Free Hosting for your Notion Pages on your custom domain.
 * [Super.so](https://super.so) - Turn Notion pages into fast, functional websites with custom domains, custom paths, fonts, analytics, and more.
 * [Potion.so](https://potion.so) - Create custom websites in minutes. Featuring custom domains, styles and great SEO.
 * [Notelet](https://notelet.so/) - Write in Notion, publish to the web. Custom domain, analytics, themes and more.
