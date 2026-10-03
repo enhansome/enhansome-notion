@@ -457,7 +457,7 @@
             "open_issues": 65,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5668,
+            "stars": 5669,
             "topics": [
               "api",
               "api-client",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4373,
+            "stars": 4372,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:56.158Z",
+    "last_updated": "2026-10-03T23:55:51.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",

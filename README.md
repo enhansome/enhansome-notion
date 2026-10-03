@@ -132,9 +132,9 @@
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,668 | 🐛 65 | 🌐 TypeScript | 📅 2026-10-01 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,669 | 🐛 65 | 🌐 TypeScript | 📅 2026-10-01 - Reference implementation of the Notion API in Javascript by the Notion Team.
 * [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,432 | 🐛 187 | 🌐 TypeScript | 📅 2026-09-19 - Robust TypeScript client for the unofficial Notion API.
-* [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,373 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
+* [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,372 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
 * [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,190 | 🐛 33 | 🌐 Python | 📅 2026-10-02 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,839 | 🐛 0 | 🌐 Go | 📅 2026-09-22 - Unofficial Go API for Notion.so.
 * [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,665 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
