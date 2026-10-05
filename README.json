@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7029,
+            "stars": 7030,
             "topics": [
               "blog",
               "nextjs",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T09:06:41Z",
+            "last_commit": "2026-10-04T11:32:25Z",
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:57:52Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-04T19:17:47Z",
+            "open_issues": 66,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5669,
+            "stars": 5670,
             "topics": [
               "api",
               "api-client",
@@ -534,7 +534,7 @@
             "open_issues": 33,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2190,
+            "stars": 2191,
             "topics": [
               "api-client",
               "async",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:55:51.479Z",
+    "last_updated": "2026-10-05T00:01:13.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -946,7 +946,7 @@
       "open_issues": 31,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 844,
+      "stars": 845,
       "topics": [
         "awesome-list",
         "notion"
