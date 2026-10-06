@@ -126,14 +126,14 @@
 
 ## Renderers
 
-* [React Notion X](https://github.com/NotionX/react-notion-x) ⭐ 5,431 | 🐛 187 | 🌐 TypeScript | 📅 2026-09-19 - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
+* [React Notion X](https://github.com/NotionX/react-notion-x) ⭐ 5,431 | 🐛 188 | 🌐 TypeScript | 📅 2026-09-19 - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
 * [React Notion](https://github.com/splitbee/react-notion) ⭐ 3,000 | 🐛 42 | 🌐 TypeScript | 📅 2024-10-28 - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
 * [Vue Notion](https://github.com/janniks/vue-notion) ⭐ 921 | 🐛 24 | 🌐 Vue | 📅 2024-09-05 - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.
 
 ## APIs
 
 * [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,667 | 🐛 65 | 🌐 TypeScript | 📅 2026-10-04 - Reference implementation of the Notion API in Javascript by the Notion Team.
-* [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,431 | 🐛 187 | 🌐 TypeScript | 📅 2026-09-19 - Robust TypeScript client for the unofficial Notion API.
+* [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,431 | 🐛 188 | 🌐 TypeScript | 📅 2026-09-19 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,372 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
 * [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,192 | 🐛 33 | 🌐 Python | 📅 2026-10-06 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,839 | 🐛 0 | 🌐 Go | 📅 2026-09-22 - Unofficial Go API for Notion.so.
@@ -149,7 +149,7 @@
 * [notion-ruby](https://github.com/danmurphy1217/notion-ruby) ⭐ 70 | 🐛 5 | 🌐 Ruby | 📅 2021-09-06 - Unofficial Notion Client for Ruby.
 * [notion-sdk-php](https://github.com/brd6/notion-sdk-php/) ⭐ 61 | 🐛 4 | 🌐 PHP | 📅 2026-10-01 - PHP library for the official Notion API.
 * [notion-ts-client](https://github.com/velsa/notion-ts-client) ⭐ 32 | 🐛 5 | 🌐 TypeScript | 📅 2025-06-17 - Generate an easy to use custom Typescript SDK to access and modify the data in your Notion Databases.
-* [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) ⭐ 26 | 🐛 3 | 🌐 Kotlin | 📅 2021-11-18 - Unofficial Notion.so API wrapper, written in Kotlin.
+* [KNotion API](https://github.com/notionsdk/notion-sdk-kotlin) ⭐ 27 | 🐛 3 | 🌐 Kotlin | 📅 2021-11-18 - Unofficial Notion.so API wrapper, written in Kotlin.
 * [notion-sdk-deno](https://github.com/yeukfei02/notion-sdk-deno) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-02 - Unofficial Notion Client for Deno.
 * [The Official Notion API](https://developers.notion.com/) - Official Notion API, which is still a private beta version.
 * [ultimate-notion](https://ultimate-notion.com/) - High-level Python client based on notion-sdk-py.
