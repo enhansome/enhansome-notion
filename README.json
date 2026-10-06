@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7030,
+            "stars": 7029,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5025,
+            "stars": 5026,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 409,
+            "stars": 408,
             "topics": [
               "badgen",
               "brands",
@@ -367,7 +367,7 @@
             "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5432,
+            "stars": 5431,
             "topics": [
               "nextjs",
               "notion",
@@ -454,10 +454,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-04T19:17:47Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5670,
+            "stars": 5667,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5432,
+            "stars": 5431,
             "topics": [
               "nextjs",
               "notion",
@@ -530,11 +530,11 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:29:30Z",
+            "last_commit": "2026-10-06T00:29:08Z",
             "open_issues": 33,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2191,
+            "stars": 2192,
             "topics": [
               "api-client",
               "async",
@@ -900,7 +900,7 @@
             "open_issues": 3,
             "owner": "notionsdk",
             "repo": "notion-sdk-kotlin",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T00:01:13.636Z",
+    "last_updated": "2026-10-06T01:47:41.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -943,7 +943,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 31,
+      "open_issues": 32,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
       "stars": 845,
