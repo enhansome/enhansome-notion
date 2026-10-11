@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5027,
+            "stars": 5029,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T11:32:25Z",
+            "last_commit": "2026-10-10T11:56:38Z",
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -395,7 +395,7 @@
             "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 3000,
+            "stars": 3001,
             "topics": [
               "headless-cms",
               "notion",
@@ -534,7 +534,7 @@
             "open_issues": 38,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2192,
+            "stars": 2193,
             "topics": [
               "api-client",
               "async",
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "kjk",
             "repo": "notionapi",
-            "stars": 1839,
+            "stars": 1840,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -585,7 +585,7 @@
             "open_issues": 29,
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1665,
+            "stars": 1666,
             "topics": [
               "api",
               "cloudflare-workers",
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "markdown",
               "notion",
@@ -722,7 +722,7 @@
             "open_issues": 2,
             "owner": "yannbolliger",
             "repo": "notion-exporter",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "cli",
               "markdown",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:02:06.919Z",
+    "last_updated": "2026-10-11T00:16:29.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -946,7 +946,7 @@
       "open_issues": 33,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 846,
+      "stars": 847,
       "topics": [
         "awesome-list",
         "notion"
