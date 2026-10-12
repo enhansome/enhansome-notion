@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7028,
+            "stars": 7029,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5029,
+            "stars": 5030,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 410,
+            "stars": 409,
             "topics": [
               "badgen",
               "brands",
@@ -367,7 +367,7 @@
             "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5433,
+            "stars": 5436,
             "topics": [
               "nextjs",
               "notion",
@@ -395,7 +395,7 @@
             "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 3001,
+            "stars": 3002,
             "topics": [
               "headless-cms",
               "notion",
@@ -485,7 +485,7 @@
             "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5433,
+            "stars": 5436,
             "topics": [
               "nextjs",
               "notion",
@@ -530,7 +530,7 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T00:30:00Z",
+            "last_commit": "2026-10-11T00:32:27Z",
             "open_issues": 38,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
@@ -673,35 +673,6 @@
               "api-wrapper",
               "nodejs",
               "notion"
-            ]
-          },
-          "first_seen": "2026-08-28T05:29:57.543Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Notion CLI",
-          "description": "A fast, full-featured command-line interface for Notion with support for pages, databases, blocks, comments, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Work seamlessly with Notion from the command line. Full Notion API coverage in a single binary.",
-            "homepage": "https://github.com/4ier/notion-cli",
-            "id": 1160977040,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-07-18T23:15:43Z",
-            "open_issues": 12,
-            "owner": "4ier",
-            "repo": "notion-cli",
-            "stars": 247,
-            "topics": [
-              "ai-agents",
-              "cli",
-              "developer-tools",
-              "go",
-              "notion",
-              "notion-api",
-              "terminal"
             ]
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -934,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:16:29.997Z",
+    "last_updated": "2026-10-12T00:38:51.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -943,7 +914,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 33,
+      "open_issues": 34,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
       "stars": 847,
