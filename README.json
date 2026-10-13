@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7029,
+            "stars": 7028,
             "topics": [
               "blog",
               "nextjs",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "badgen",
               "brands",
@@ -420,7 +420,7 @@
             "open_issues": 24,
             "owner": "janniks",
             "repo": "vue-notion",
-            "stars": 921,
+            "stars": 922,
             "topics": [
               "cms",
               "notion",
@@ -454,10 +454,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-04T19:17:47Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5671,
+            "stars": 5672,
             "topics": [
               "api",
               "api-client",
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T00:32:27Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-13T00:31:19Z",
+            "open_issues": 39,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2193,
@@ -585,7 +585,7 @@
             "open_issues": 29,
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1666,
+            "stars": 1665,
             "topics": [
               "api",
               "cloudflare-workers",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:38:51.837Z",
+    "last_updated": "2026-10-13T02:38:03.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
