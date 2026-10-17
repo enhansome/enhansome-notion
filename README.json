@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7030,
+            "stars": 7032,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "badgen",
               "brands",
@@ -457,7 +457,7 @@
             "open_issues": 65,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5674,
+            "stars": 5675,
             "topics": [
               "api",
               "api-client",
@@ -530,11 +530,11 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T00:23:42Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-17T00:24:33Z",
+            "open_issues": 20,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2193,
+            "stars": 2194,
             "topics": [
               "api-client",
               "async",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:42:48.314Z",
+    "last_updated": "2026-10-17T23:13:35.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
