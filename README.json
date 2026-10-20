@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7032,
+            "stars": 7033,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3856,
+            "stars": 3857,
             "topics": [
               "nextjs",
               "notion",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T11:56:38Z",
+            "last_commit": "2026-10-20T06:19:43Z",
             "open_issues": 0,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -367,7 +367,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5436,
+            "stars": 5438,
             "topics": [
               "nextjs",
               "notion",
@@ -454,7 +454,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T16:37:29Z",
-            "open_issues": 65,
+            "open_issues": 67,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5678,
@@ -485,7 +485,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5436,
+            "stars": 5438,
             "topics": [
               "nextjs",
               "notion",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4371,
+            "stars": 4372,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -693,7 +693,7 @@
             "open_issues": 2,
             "owner": "yannbolliger",
             "repo": "notion-exporter",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "cli",
               "markdown",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:27:46.863Z",
+    "last_updated": "2026-10-20T23:58:38.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
