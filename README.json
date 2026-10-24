@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7033,
+            "stars": 7032,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3857,
+            "stars": 3858,
             "topics": [
               "nextjs",
               "notion",
@@ -367,7 +367,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5437,
+            "stars": 5436,
             "topics": [
               "nextjs",
               "notion",
@@ -485,7 +485,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5437,
+            "stars": 5436,
             "topics": [
               "nextjs",
               "notion",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:53:27.576Z",
+    "last_updated": "2026-10-24T23:26:20.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
