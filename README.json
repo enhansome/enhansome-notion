@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5028,
+            "stars": 5029,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -259,7 +259,7 @@
             "open_issues": 5,
             "owner": "elblogbruno",
             "repo": "NotionAI-MyMind",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "ai",
               "android",
@@ -367,7 +367,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5436,
+            "stars": 5437,
             "topics": [
               "nextjs",
               "notion",
@@ -457,7 +457,7 @@
             "open_issues": 67,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5681,
+            "stars": 5682,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5436,
+            "stars": 5437,
             "topics": [
               "nextjs",
               "notion",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4372,
+            "stars": 4373,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -534,7 +534,7 @@
             "open_issues": 22,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2195,
+            "stars": 2196,
             "topics": [
               "api-client",
               "async",
@@ -818,8 +818,8 @@
             "id": 468870898,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-23T15:05:04Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-25T09:54:55Z",
+            "open_issues": 3,
             "owner": "brd6",
             "repo": "notion-sdk-php",
             "stars": 61,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:26:20.985Z",
+    "last_updated": "2026-10-25T23:22:18.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
