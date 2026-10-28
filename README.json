@@ -453,8 +453,8 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T15:34:03Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-27T21:36:40Z",
+            "open_issues": 62,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5682,
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4373,
+            "stars": 4371,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -530,11 +530,11 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T00:25:19Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-28T00:19:31Z",
+            "open_issues": 26,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2196,
+            "stars": 2195,
             "topics": [
               "api-client",
               "async",
@@ -585,7 +585,7 @@
             "open_issues": 29,
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1665,
+            "stars": 1666,
             "topics": [
               "api",
               "cloudflare-workers",
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 760,
+            "stars": 761,
             "topics": [
               "markdown",
               "notion",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:37:23.436Z",
+    "last_updated": "2026-10-28T00:35:13.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",

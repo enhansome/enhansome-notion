@@ -132,13 +132,13 @@
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,682 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-22 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,682 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-27 - Reference implementation of the Notion API in Javascript by the Notion Team.
 * [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,437 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-18 - Robust TypeScript client for the unofficial Notion API.
-* [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,373 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
-* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,196 | 🐛 23 | 🌐 Python | 📅 2026-10-27 - Python version of the reference notion-sdk-js Javascript client.
+* [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,371 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
+* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,195 | 🐛 26 | 🌐 Python | 📅 2026-10-28 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,840 | 🐛 0 | 🌐 Go | 📅 2026-10-21 - Unofficial Go API for Notion.so.
-* [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,665 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
-* [notion2md](https://github.com/echo724/notion2md) ⭐ 760 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
+* [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,666 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
+* [notion2md](https://github.com/echo724/notion2md) ⭐ 761 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
 * [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) ⭐ 436 | 🐛 14 | 🌐 PHP | 📅 2026-06-04 - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 * [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) ⭐ 279 | 🐛 8 | 🌐 TypeScript | 📅 2022-06-24 - Unofficial Node.js API wrapper for Notion.so. Work in progress.
 * [notion-exporter](https://github.com/yannbolliger/notion-exporter) ⭐ 191 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 - CLI and library for exporting .md and .csv files from any Notion.so page.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
