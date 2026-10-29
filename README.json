@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7034,
+            "stars": 7035,
             "topics": [
               "blog",
               "nextjs",
@@ -130,7 +130,7 @@
             "open_issues": 10,
             "owner": "notiondog",
             "repo": "notion.dog",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "notion",
               "notion-website"
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5028,
+            "stars": 5027,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T21:36:40Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-28T22:56:36Z",
+            "open_issues": 63,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5682,
+            "stars": 5681,
             "topics": [
               "api",
               "api-client",
@@ -530,7 +530,7 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T00:19:31Z",
+            "last_commit": "2026-10-29T00:19:25Z",
             "open_issues": 26,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:35:13.874Z",
+    "last_updated": "2026-10-29T01:04:56.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -914,10 +914,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 38,
+      "open_issues": 39,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 848,
+      "stars": 849,
       "topics": [
         "awesome-list",
         "notion"
