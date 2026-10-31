@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7035,
+            "stars": 7037,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3858,
+            "stars": 3859,
             "topics": [
               "nextjs",
               "notion",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5027,
+            "stars": 5028,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -367,7 +367,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5437,
+            "stars": 5438,
             "topics": [
               "nextjs",
               "notion",
@@ -395,7 +395,7 @@
             "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 3001,
+            "stars": 3002,
             "topics": [
               "headless-cms",
               "notion",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T00:28:40Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-30T22:26:29Z",
+            "open_issues": 67,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5680,
+            "stars": 5681,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5437,
+            "stars": 5438,
             "topics": [
               "nextjs",
               "notion",
@@ -530,11 +530,11 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T00:19:49Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-31T00:16:00Z",
+            "open_issues": 24,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2195,
+            "stars": 2196,
             "topics": [
               "api-client",
               "async",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:10:56.084Z",
+    "last_updated": "2026-10-31T00:53:55.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -917,7 +917,7 @@
       "open_issues": 39,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 849,
+      "stars": 850,
       "topics": [
         "awesome-list",
         "notion"
