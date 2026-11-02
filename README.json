@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7037,
+            "stars": 7038,
             "topics": [
               "blog",
               "nextjs",
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 761,
+            "stars": 760,
             "topics": [
               "markdown",
               "notion",
@@ -693,7 +693,7 @@
             "open_issues": 1,
             "owner": "yannbolliger",
             "repo": "notion-exporter",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "cli",
               "markdown",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:13:15.486Z",
+    "last_updated": "2026-11-02T00:54:49.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",

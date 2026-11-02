@@ -20,7 +20,7 @@
 
 ## Notion as Blog CMS
 
-* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,037 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-18 - A starter kit using React Notion X to build into SSG with Next.js.
+* [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,038 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-18 - A starter kit using React Notion X to build into SSG with Next.js.
 * [Notion Blog](https://github.com/ijjk/notion-blog) ⭐ 3,859 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-08 - It is a tool that uses Next.js to generate Notion as static blog web pages.
 * [Notablog](https://github.com/dragonman225/notablog) ⭐ 682 | 🐛 23 | 🌐 TypeScript | 📅 2023-09-20 - Generate a minimalistic blog from Notion table.
 * [React Notion Blog](https://github.com/splitbee/react-notion-blog) ⭐ 189 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-06 - Notion blog boilerplate using React Notion to build into SSG with Next.js.
@@ -138,10 +138,10 @@
 * [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,196 | 🐛 24 | 🌐 Python | 📅 2026-10-31 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,840 | 🐛 0 | 🌐 Go | 📅 2026-10-21 - Unofficial Go API for Notion.so.
 * [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,666 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
-* [notion2md](https://github.com/echo724/notion2md) ⭐ 761 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
+* [notion2md](https://github.com/echo724/notion2md) ⭐ 760 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
 * [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) ⭐ 436 | 🐛 14 | 🌐 PHP | 📅 2026-06-04 - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 * [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) ⭐ 279 | 🐛 8 | 🌐 TypeScript | 📅 2022-06-24 - Unofficial Node.js API wrapper for Notion.so. Work in progress.
-* [notion-exporter](https://github.com/yannbolliger/notion-exporter) ⭐ 191 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 - CLI and library for exporting .md and .csv files from any Notion.so page.
+* [notion-exporter](https://github.com/yannbolliger/notion-exporter) ⭐ 192 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 - CLI and library for exporting .md and .csv files from any Notion.so page.
 * [notion4ever](https://github.com/MerkulovDaniil/notion4ever) ⭐ 179 | 🐛 5 | 🌐 Python | 📅 2026-04-14 - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
 * [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) ⭐ 171 | 🐛 12 | 🌐 TypeScript | 📅 2023-01-06 - NodeJS tool to convert public notion pages to HTML.
 * [notion-helper](https://github.com/TomFrankly/notion-helper) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-05 - Library for writing Notion API requests with a lot less code
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
