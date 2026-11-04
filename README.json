@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3859,
+            "stars": 3858,
             "topics": [
               "nextjs",
               "notion",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T13:46:17Z",
+            "last_commit": "2026-11-03T14:44:09Z",
             "open_issues": 1,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -367,7 +367,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5441,
+            "stars": 5440,
             "topics": [
               "nextjs",
               "notion",
@@ -453,8 +453,8 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:46:38Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-03T23:46:37Z",
+            "open_issues": 67,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5678,
@@ -485,7 +485,7 @@
             "open_issues": 186,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5441,
+            "stars": 5440,
             "topics": [
               "nextjs",
               "notion",
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T00:15:57Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-04T00:16:58Z",
+            "open_issues": 28,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2196,
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 760,
+            "stars": 761,
             "topics": [
               "markdown",
               "notion",
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "5am-code",
             "repo": "laravel-notion-api",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "api",
               "effortless-notion-integrations",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:57:59.323Z",
+    "last_updated": "2026-11-04T01:29:58.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -914,7 +914,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 39,
+      "open_issues": 41,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
       "stars": 849,
