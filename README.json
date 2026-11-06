@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T16:51:36Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-05T18:46:29Z",
+            "open_issues": 61,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5678,
+            "stars": 5681,
             "topics": [
               "api",
               "api-client",
@@ -531,7 +531,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T00:16:50Z",
-            "open_issues": 29,
+            "open_issues": 27,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2196,
@@ -774,7 +774,7 @@
             "open_issues": 0,
             "owner": "TomFrankly",
             "repo": "notion-helper",
-            "stars": 96,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:31:45.025Z",
+    "last_updated": "2026-11-06T01:40:00.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -914,7 +914,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 41,
+      "open_issues": 42,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
       "stars": 849,
