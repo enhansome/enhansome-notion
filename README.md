@@ -126,14 +126,14 @@
 
 ## Renderers
 
-* [React Notion X](https://github.com/NotionX/react-notion-x) ⭐ 5,440 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-18 - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
+* [React Notion X](https://github.com/NotionX/react-notion-x) ⭐ 5,440 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-18 - Extended version of react-notion project. Support for more blocks of notes and provides more features, such as dark mode.
 * [React Notion](https://github.com/splitbee/react-notion) ⭐ 3,000 | 🐛 42 | 🌐 TypeScript | 📅 2024-10-28 - A React renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site.
 * [Vue Notion](https://github.com/janniks/vue-notion) ⭐ 921 | 🐛 24 | 🌐 Vue | 📅 2024-09-05 - A Vue renderer for Notion pages. Use Notion as CMS for blog, documentation or personal site, ported to vue from React Notion.
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,681 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-06 - Reference implementation of the Notion API in Javascript by the Notion Team.
-* [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,440 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-18 - Robust TypeScript client for the unofficial Notion API.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,682 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-06 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,440 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-18 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,372 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
 * [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,196 | 🐛 27 | 🌐 Python | 📅 2026-11-07 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,840 | 🐛 0 | 🌐 Go | 📅 2026-10-21 - Unofficial Go API for Notion.so.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

@@ -364,7 +364,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-18T21:57:56Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
             "stars": 5440,
@@ -457,7 +457,7 @@
             "open_issues": 61,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5681,
+            "stars": 5682,
             "topics": [
               "api",
               "api-client",
@@ -482,7 +482,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-18T21:57:56Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "NotionX",
             "repo": "react-notion-x",
             "stars": 5440,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:59:20.149Z",
+    "last_updated": "2026-11-08T00:48:06.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
