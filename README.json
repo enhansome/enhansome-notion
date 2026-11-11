@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7038,
+            "stars": 7041,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3857,
+            "stars": 3858,
             "topics": [
               "nextjs",
               "notion",
@@ -74,7 +74,7 @@
             "open_issues": 23,
             "owner": "dragonman225",
             "repo": "notablog",
-            "stars": 682,
+            "stars": 681,
             "topics": [
               "blog",
               "blog-engine",
@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 421,
+            "stars": 422,
             "topics": [
               "badgen",
               "brands",
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T00:15:05Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-11T00:16:23Z",
+            "open_issues": 28,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2197,
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 761,
+            "stars": 762,
             "topics": [
               "markdown",
               "notion",
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "5am-code",
             "repo": "laravel-notion-api",
-            "stars": 435,
+            "stars": 436,
             "topics": [
               "api",
               "effortless-notion-integrations",
@@ -774,7 +774,7 @@
             "open_issues": 0,
             "owner": "TomFrankly",
             "repo": "notion-helper",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:39:14.021Z",
+    "last_updated": "2026-11-11T01:19:14.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -917,7 +917,7 @@
       "open_issues": 42,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 849,
+      "stars": 850,
       "topics": [
         "awesome-list",
         "notion"
