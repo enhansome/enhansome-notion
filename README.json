@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7041,
+            "stars": 7040,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5033,
+            "stars": 5031,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T14:44:09Z",
+            "last_commit": "2026-11-11T08:17:43Z",
             "open_issues": 1,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -395,7 +395,7 @@
             "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 3000,
+            "stars": 2999,
             "topics": [
               "headless-cms",
               "notion",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4372,
+            "stars": 4373,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T00:16:23Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-12T00:16:40Z",
+            "open_issues": 29,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2197,
@@ -585,7 +585,7 @@
             "open_issues": 29,
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1665,
+            "stars": 1667,
             "topics": [
               "api",
               "cloudflare-workers",
@@ -818,8 +818,8 @@
             "id": 468870898,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-25T09:54:55Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-11T20:17:37Z",
+            "open_issues": 4,
             "owner": "brd6",
             "repo": "notion-sdk-php",
             "stars": 61,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:19:14.525Z",
+    "last_updated": "2026-11-12T02:19:37.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
