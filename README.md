@@ -39,7 +39,7 @@
 
 ## Tools
 
-* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,032 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
+* [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,033 | 🐛 141 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
 * [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 422 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-11 -  The CDN service of the free brand icons set for your Notion pages.
 * [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) ⭐ 285 | 🐛 5 | 🌐 Python | 📅 2021-11-23 - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 * [notionterm](https://github.com/ariary/notionterm) ⭐ 138 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
@@ -135,7 +135,7 @@
 * [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,686 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-06 - Reference implementation of the Notion API in Javascript by the Notion Team.
 * [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,441 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-18 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,373 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
-* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,197 | 🐛 29 | 🌐 Python | 📅 2026-11-13 - Python version of the reference notion-sdk-js Javascript client.
+* [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,197 | 🐛 96 | 🌐 Python | 📅 2026-11-14 - Python version of the reference notion-sdk-js Javascript client.
 * [notionapi](https://github.com/kjk/notionapi) ⭐ 1,840 | 🐛 0 | 🌐 Go | 📅 2026-10-21 - Unofficial Go API for Notion.so.
 * [Notion API Worker](https://github.com/splitbee/notion-api-worker) ⭐ 1,667 | 🐛 29 | 🌐 TypeScript | 📅 2025-10-17 - A serverless wrapper for the private Notion API.
 * [notion2md](https://github.com/echo724/notion2md) ⭐ 762 | 🐛 7 | 🌐 Python | 📅 2024-01-10 - Convert your Notion file to markdown - built on-top of notion-py.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
