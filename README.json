@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5033,
+            "stars": 5034,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -367,7 +367,7 @@
             "open_issues": 188,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5441,
+            "stars": 5442,
             "topics": [
               "nextjs",
               "notion",
@@ -457,7 +457,7 @@
             "open_issues": 61,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5686,
+            "stars": 5688,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 188,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5441,
+            "stars": 5442,
             "topics": [
               "nextjs",
               "notion",
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "kjk",
             "repo": "notionapi",
-            "stars": 1840,
+            "stars": 1839,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:30:27.935Z",
+    "last_updated": "2026-11-15T01:07:52.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
