@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7041,
+            "stars": 7042,
             "topics": [
               "blog",
               "nextjs",
@@ -367,7 +367,7 @@
             "open_issues": 188,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5442,
+            "stars": 5443,
             "topics": [
               "nextjs",
               "notion",
@@ -420,7 +420,7 @@
             "open_issues": 24,
             "owner": "janniks",
             "repo": "vue-notion",
-            "stars": 920,
+            "stars": 918,
             "topics": [
               "cms",
               "notion",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T22:47:20Z",
+            "last_commit": "2026-11-15T01:31:36Z",
             "open_issues": 61,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5688,
+            "stars": 5689,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 188,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5442,
+            "stars": 5443,
             "topics": [
               "nextjs",
               "notion",
@@ -611,7 +611,7 @@
             "open_issues": 7,
             "owner": "echo724",
             "repo": "notion2md",
-            "stars": 762,
+            "stars": 761,
             "topics": [
               "markdown",
               "notion",
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "5am-code",
             "repo": "laravel-notion-api",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "api",
               "effortless-notion-integrations",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:07:52.585Z",
+    "last_updated": "2026-11-16T01:10:44.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
