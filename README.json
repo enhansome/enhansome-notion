@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7042,
+            "stars": 7040,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5034,
+            "stars": 5037,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T08:17:43Z",
+            "last_commit": "2026-11-16T11:32:22Z",
             "open_issues": 1,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T01:31:36Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-16T01:31:09Z",
+            "open_issues": 60,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5689,
+            "stars": 5690,
             "topics": [
               "api",
               "api-client",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4373,
+            "stars": 4372,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:19:12Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-17T00:16:37Z",
+            "open_issues": 28,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2197,
@@ -585,7 +585,7 @@
             "open_issues": 29,
             "owner": "splitbee",
             "repo": "notion-api-worker",
-            "stars": 1667,
+            "stars": 1668,
             "topics": [
               "api",
               "cloudflare-workers",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:10:44.821Z",
+    "last_updated": "2026-11-17T04:00:48.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
