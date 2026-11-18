@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7040,
+            "stars": 7042,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3858,
+            "stars": 3857,
             "topics": [
               "nextjs",
               "notion",
@@ -181,7 +181,7 @@
             "open_issues": 141,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5037,
+            "stars": 5038,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -367,7 +367,7 @@
             "open_issues": 188,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5443,
+            "stars": 5444,
             "topics": [
               "nextjs",
               "notion",
@@ -454,7 +454,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-16T01:31:09Z",
-            "open_issues": 60,
+            "open_issues": 59,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
             "stars": 5690,
@@ -485,7 +485,7 @@
             "open_issues": 188,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5443,
+            "stars": 5444,
             "topics": [
               "nextjs",
               "notion",
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:16:37Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-18T00:16:26Z",
+            "open_issues": 29,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2197,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:00:48.883Z",
+    "last_updated": "2026-11-18T02:58:28.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -914,7 +914,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 45,
+      "open_issues": 46,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
       "stars": 850,
