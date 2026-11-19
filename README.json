@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-18T14:50:56Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7042,
+            "stars": 7043,
             "topics": [
               "blog",
               "nextjs",
@@ -364,10 +364,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-18T21:57:56Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5444,
+            "stars": 5445,
             "topics": [
               "nextjs",
               "notion",
@@ -482,10 +482,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-18T21:57:56Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5444,
+            "stars": 5445,
             "topics": [
               "nextjs",
               "notion",
@@ -531,7 +531,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T00:16:26Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2197,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:58:28.746Z",
+    "last_updated": "2026-11-19T02:40:39.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
