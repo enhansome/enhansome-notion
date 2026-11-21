@@ -40,7 +40,7 @@
 ## Tools
 
 * [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,038 | 🐛 142 | 🌐 JavaScript | 📅 2026-02-28 - Extension to Notion that adds numerous highly requested features such as tabs, custom width pages, and themes.
-* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 422 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 -  The CDN service of the free brand icons set for your Notion pages.
+* [Simple Icons CDN](https://github.com/LitoMore/simple-icons-cdn) ⭐ 423 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 -  The CDN service of the free brand icons set for your Notion pages.
 * [NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) ⭐ 285 | 🐛 5 | 🌐 Python | 📅 2021-11-23 - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 * [notionterm](https://github.com/ariary/notionterm) ⭐ 138 | 🐛 3 | 🌐 Go | 📅 2023-03-07 - Embed a shell in Notion pages.
 * [Mk Notes](https://github.com/Myastr0/mk-notes) ⭐ 124 | 🐛 9 | 🌐 TypeScript | 📅 2025-12-23 - Sync your local Markdown files seamlessly to Notion, keep writing in Markdown and let Mk Notes handle the integration.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
