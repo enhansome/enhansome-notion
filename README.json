@@ -454,10 +454,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-16T01:31:09Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5689,
+            "stars": 5690,
             "topics": [
               "api",
               "api-client",
@@ -721,7 +721,7 @@
             "open_issues": 5,
             "owner": "MerkulovDaniil",
             "repo": "notion4ever",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "markdown",
               "notion",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:35:23.240Z",
+    "last_updated": "2026-11-22T01:26:48.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",

@@ -132,7 +132,7 @@
 
 ## APIs
 
-* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,689 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-16 - Reference implementation of the Notion API in Javascript by the Notion Team.
+* [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,690 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-16 - Reference implementation of the Notion API in Javascript by the Notion Team.
 * [Notion Client](https://github.com/NotionX/react-notion-x/tree/master/packages/notion-client) ⭐ 5,441 | 🐛 189 | 🌐 TypeScript | 📅 2026-10-18 - Robust TypeScript client for the unofficial Notion API.
 * [notion-py](https://github.com/jamalex/notion-py) ⭐ 4,371 | 🐛 170 | 🌐 Python | 📅 2026-02-16 - Unofficial Python API client for Notion.so.
 * [notion-sdk-py](https://github.com/ramnes/notion-sdk-py/) ⭐ 2,196 | 🐛 30 | 🌐 Python | 📅 2026-11-18 - Python version of the reference notion-sdk-js Javascript client.
@@ -142,7 +142,7 @@
 * [laravel-notion-api](https://github.com/5am-code/laravel-notion-api) ⭐ 434 | 🐛 14 | 🌐 PHP | 📅 2026-06-04 - Effortless Notion integrations with Laravel. Simple access to the Notion API.
 * [Notion-Api (Node.js)](https://github.com/cstrnt/notion-api) ⭐ 279 | 🐛 8 | 🌐 TypeScript | 📅 2022-06-24 - Unofficial Node.js API wrapper for Notion.so. Work in progress.
 * [notion-exporter](https://github.com/yannbolliger/notion-exporter) ⭐ 193 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 - CLI and library for exporting .md and .csv files from any Notion.so page.
-* [notion4ever](https://github.com/MerkulovDaniil/notion4ever) ⭐ 179 | 🐛 5 | 🌐 Python | 📅 2026-04-14 - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
+* [notion4ever](https://github.com/MerkulovDaniil/notion4ever) ⭐ 180 | 🐛 5 | 🌐 Python | 📅 2026-04-14 - Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls.
 * [Notion Page to HTML](https://github.com/asnunes/notion-page-to-html) ⭐ 171 | 🐛 12 | 🌐 TypeScript | 📅 2023-01-06 - NodeJS tool to convert public notion pages to HTML.
 * [notion-helper](https://github.com/TomFrankly/notion-helper) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-05 - Library for writing Notion API requests with a lot less code
 * [notion-ruby](https://github.com/danmurphy1217/notion-ruby) ⭐ 70 | 🐛 5 | 🌐 Ruby | 📅 2021-09-06 - Unofficial Notion Client for Ruby.
@@ -162,4 +162,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
