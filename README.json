@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7043,
+            "stars": 7042,
             "topics": [
               "blog",
               "nextjs",
@@ -181,7 +181,7 @@
             "open_issues": 142,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5038,
+            "stars": 5039,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -367,7 +367,7 @@
             "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5441,
+            "stars": 5439,
             "topics": [
               "nextjs",
               "notion",
@@ -395,7 +395,7 @@
             "open_issues": 42,
             "owner": "splitbee",
             "repo": "react-notion",
-            "stars": 2998,
+            "stars": 2996,
             "topics": [
               "headless-cms",
               "notion",
@@ -485,7 +485,7 @@
             "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5441,
+            "stars": 5439,
             "topics": [
               "nextjs",
               "notion",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4371,
+            "stars": 4370,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:26:48.224Z",
+    "last_updated": "2026-11-23T01:51:27.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
