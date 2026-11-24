@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7042,
+            "stars": 7041,
             "topics": [
               "blog",
               "nextjs",
@@ -47,7 +47,7 @@
             "open_issues": 27,
             "owner": "ijjk",
             "repo": "notion-blog",
-            "stars": 3856,
+            "stars": 3855,
             "topics": [
               "nextjs",
               "notion",
@@ -181,7 +181,7 @@
             "open_issues": 142,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5039,
+            "stars": 5040,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -219,7 +219,7 @@
             "id": 542566956,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T16:50:19Z",
+            "last_commit": "2026-11-23T23:58:56Z",
             "open_issues": 1,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
@@ -367,7 +367,7 @@
             "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5439,
+            "stars": 5438,
             "topics": [
               "nextjs",
               "notion",
@@ -485,7 +485,7 @@
             "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5439,
+            "stars": 5438,
             "topics": [
               "nextjs",
               "notion",
@@ -530,11 +530,11 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T00:16:26Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-24T00:16:15Z",
+            "open_issues": 31,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2196,
+            "stars": 2197,
             "topics": [
               "api-client",
               "async",
@@ -633,7 +633,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-06-04T12:47:23Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "5am-code",
             "repo": "laravel-notion-api",
             "stars": 434,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:51:27.998Z",
+    "last_updated": "2026-11-24T05:22:52.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -914,7 +914,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 46,
+      "open_issues": 48,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
       "stars": 850,
