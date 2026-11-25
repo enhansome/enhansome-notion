@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "badgen",
               "brands",
@@ -453,11 +453,11 @@
             "id": 359022072,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T01:31:09Z",
-            "open_issues": 60,
+            "last_commit": "2026-11-24T21:26:49Z",
+            "open_issues": 61,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5690,
+            "stars": 5689,
             "topics": [
               "api",
               "api-client",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4370,
+            "stars": 4369,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -530,8 +530,8 @@
             "id": 367164562,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:16:15Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-25T00:16:18Z",
+            "open_issues": 32,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2197,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:22:52.349Z",
+    "last_updated": "2026-11-25T04:22:14.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -917,7 +917,7 @@
       "open_issues": 48,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 850,
+      "stars": 851,
       "topics": [
         "awesome-list",
         "notion"
