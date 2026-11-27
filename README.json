@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "transitive-bullshit",
             "repo": "nextjs-notion-starter-kit",
-            "stars": 7042,
+            "stars": 7041,
             "topics": [
               "blog",
               "nextjs",
@@ -367,7 +367,7 @@
             "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5440,
+            "stars": 5441,
             "topics": [
               "nextjs",
               "notion",
@@ -457,7 +457,7 @@
             "open_issues": 63,
             "owner": "makenotion",
             "repo": "notion-sdk-js",
-            "stars": 5691,
+            "stars": 5692,
             "topics": [
               "api",
               "api-client",
@@ -485,7 +485,7 @@
             "open_issues": 189,
             "owner": "NotionX",
             "repo": "react-notion-x",
-            "stars": 5440,
+            "stars": 5441,
             "topics": [
               "nextjs",
               "notion",
@@ -531,7 +531,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-26T00:16:04Z",
-            "open_issues": 31,
+            "open_issues": 30,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
             "stars": 2197,
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:39:41.122Z",
+    "last_updated": "2026-11-27T03:41:18.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -946,7 +946,7 @@
       "open_issues": 48,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
-      "stars": 851,
+      "stars": 850,
       "topics": [
         "awesome-list",
         "notion"
