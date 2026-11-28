@@ -181,7 +181,7 @@
             "open_issues": 142,
             "owner": "notion-enhancer",
             "repo": "notion-enhancer",
-            "stars": 5040,
+            "stars": 5039,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "LitoMore",
             "repo": "simple-icons-cdn",
-            "stars": 424,
+            "stars": 425,
             "topics": [
               "badgen",
               "brands",
@@ -513,7 +513,7 @@
             "open_issues": 170,
             "owner": "jamalex",
             "repo": "notion-py",
-            "stars": 4369,
+            "stars": 4368,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:57.543Z"
@@ -534,7 +534,7 @@
             "open_issues": 30,
             "owner": "ramnes",
             "repo": "notion-sdk-py",
-            "stars": 2197,
+            "stars": 2196,
             "topics": [
               "api-client",
               "async",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:41:18.526Z",
+    "last_updated": "2026-11-28T03:22:34.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Notion related things.",
@@ -943,7 +943,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-15T21:12:07Z",
-      "open_issues": 48,
+      "open_issues": 49,
       "owner": "spencerpauly",
       "repo": "awesome-notion",
       "stars": 850,
